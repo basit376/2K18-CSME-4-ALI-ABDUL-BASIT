@@ -20,3 +20,32 @@ Publish:  Mon 13 Jul 2020 17:06 - 17:18 at ICPC - Session 2: Quality Chair(s): G
   
 WE GET IT VERY USE FOR DEVELOPER TO USE Adoctor tool to refactoring automatically these 6 major energy smell  components in java mobile applications codes:
 
+# Second page 
+https://2020.icse-conferences.org/details/Demonstrations/19/RTj-a-Java-framework-for-detecting-and-refactoring-rotten-green-test-cases
+<h3>Title:RTj: a Java framework for detecting and refactoring rotten greentest cases </h3>
+<h3>Authours:Matias Martinez, Anne Etien, Stéphane Ducasse, Christopher Fuhrman </h3>
+
+	<h3>
+Publish:  Wed 8 Jul 2020 16:25 - 16:28 at Silla - A12-Testing Chair(s): Sasa Misailovic
+</h3>
+<h3>Introduction: </h3>
+ he work on Rotten Green tests are passing tests  which have at least one assertion not executed and rotten test give developers a false confidence the he present RTj a frame work tool
+ <h3>Methodology: </h3>
+ A rotten  green  test is a tests contains assertions that are never executed and rotten test giving developers a false confidence because beyond  passing an assertion that should validate some property is in fact not executed for helping java developers to detect green test and create a framework called RTj RTj needs to run on java virtual machine 8 Moreover Maven must be installed on your machines and accesible     from  command  line in analysis of any project RTj can analyze any kind of Java project, not necessary Maven project. For that, it will be necessary to pass (via command line arguments) to RTj additional information about the project under analysis. As by default, RTj calls project-info-maven-plugin, to disable this feature, pass the argument autoconfigure false. Then, use the following arguments to pass the information related to the project to analyze. -location "absolute location of the project to analyze" 
+
+-dependencies "folder with the dependencies of the application to analyze" 
+
+-javacompliancelevel "compliance level of source code
+
+-srcjavafolder "source code folder"
+
+-srctestfolder "test source code folder"
+
+-binjavafolder "class folder"
+
+-bintestfolder "test class folder" 
+
+ <h3>MOTIVATION: </h3>
+ work for detecting and refactoring smelly test. :    We can see that Rotten Green tests can give false confidence in testing their  projects and RTj give automatic solution to developer for thier projects and we provide developer a unified frame work for detecting and refactoring smelly test.
+<h3>Results: </h3>
+The Main Result of this paper RTj a frame work that analyzes statically and dynamically test cases with the goal of detecting smelly test including rotten test cases rotten test give devlopers to false confidence and RTj give helping to developers automatically detect 
