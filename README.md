@@ -25,9 +25,7 @@ https://2020.icse-conferences.org/details/Demonstrations/19/RTj-a-Java-framework
 <h3>Title:RTj: a Java framework for detecting and refactoring rotten greentest cases </h3>
 <h3>Authours:Matias Martinez, Anne Etien, Stéphane Ducasse, Christopher Fuhrman </h3>
 
-	<h3>
-Publish:  Wed 8 Jul 2020 16:25 - 16:28 at Silla - A12-Testing Chair(s): Sasa Misailovic
-</h3>
+<h3>Publish:  Wed 8 Jul 2020 16:25 - 16:28 at Silla - A12-Testing Chair(s): Sasa Misailovic</h3>
 <h3>Introduction: </h3>
  he work on Rotten Green tests are passing tests  which have at least one assertion not executed and rotten test give developers a false confidence the he present RTj a frame work tool
  <h3>Methodology: </h3>
