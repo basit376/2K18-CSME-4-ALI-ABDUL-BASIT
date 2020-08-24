@@ -47,3 +47,20 @@ https://2020.icse-conferences.org/details/Demonstrations/19/RTj-a-Java-framework
  work for detecting and refactoring smelly test. :    We can see that Rotten Green tests can give false confidence in testing their  projects and RTj give automatic solution to developer for thier projects and we provide developer a unified frame work for detecting and refactoring smelly test.
 <h3>Results: </h3>
 The Main Result of this paper RTj a frame work that analyzes statically and dynamically test cases with the goal of detecting smelly test including rotten test cases rotten test give devlopers to false confidence and RTj give helping to developers automatically detect 
+#Third Page
+https://conf.researchr.org/details/mobilesoft-2020/mobilesoft-2020-tool/4/Doodle2App-Native-App-Code-by-Freehand-UI-Sketching
+<h3>Title:Doodle2App: Native App Code by Freehand UI Sketching </h3>
+<h3>Authours: Soumik Christoph Csallner Mohian, </h3>
+
+<h3>Publish: Tue 14 Jul 2020 16:25 - 16:35 at MobileSoft - Software Development and Evolution Chair(s): Mariano </h3>
+
+<h3>Introduction: </h3>
+In Modern time here most challenging work for developer to make a user reliable in this paper he work on freehand UI Sketching and make Doodle2App 712 sketch samples  achieve higher accuracy then the state of the art tool Teleport in this UI Sketching App we work Freehand prototype UI Designers today have to Manually Recreate Prototype in high fidelity tools such as Photoshop or in a ide Which is laborious and costly for developer
+
+ <h3>Methodology: </h3>
+ Doodle2 App based on Integrating Freehand UI Sketch is hard to maintain well known  benefits The  Doodle2App tool is web based and provides a canvas for sketching with mouse or tochscreen user can create one sketch of UI at one time at a time  The Doodle2 App Currently support 21 UI elements types If user makes his project with Freehand UI sketch At Any time the designer can export the current UI state to a   compilable  for android app
+<h3>Motivation: </h3>
+In this paper the motivation for developer to make his project desing with freehand and draw desing with mouse and convert it to android code to make an app for user reliable
+ <h3>Result: </h3>
+This paper is All about Freehand UI sketching  Prototype Contains 21 UI sketch (eg. Avtar , back , cancel checkbox dropdown , Forward, Left arrow , Menu , Play, Plus Search, Setting, Share ,  Sliders , Squiggle, switch, star envelope, camera, 
+square ) and each UI prototype contains 712 quick draw scetch and the user can draw with mouse and convert into Android code and make Android app with Android studio
